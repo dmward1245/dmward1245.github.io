@@ -327,10 +327,16 @@ textarea.inputdescription{
 .portrait{
 float: right;
 border: 2px;
+max-width: 20em;
+max-height: 20em;
 border-style: solid;
 border-color: black;
 margin-right: 20px;
 margin-left: 20px;
+}
+
+.portrait-tag{
+	width: 20vw;
 }
 
 .portrait-text{
